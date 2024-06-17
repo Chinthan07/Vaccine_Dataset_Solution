@@ -8,6 +8,7 @@ Obtain the necessary datasets:
 
 Training Set: Contains features (predictors) and labels (target variables) for training the model.
 Test Set: Contains features only, which will be used to make predictions after the model is trained.
+
 3. Data Preparation
 Prepare the data for modeling. This involves:
 
