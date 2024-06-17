@@ -16,6 +16,7 @@ Data Cleaning: Handle missing values and outliers.
 Feature Engineering: Create new features or modify existing ones to better represent the underlying patterns.
 Encoding: Convert categorical variables into numerical format, typically using techniques like one-hot encoding.
 Normalization/Standardization: Scale numerical features to ensure they contribute equally to the model.
+
 4. Splitting the Data
 Divide the training data into a training set and a validation set. The training set is used to fit the model, while the validation set is used to evaluate its performance.
 
@@ -27,6 +28,7 @@ Decision Trees: Easy to visualize and understand.
 Random Forests: Ensemble method that improves performance by combining multiple decision trees.
 Gradient Boosting Machines (GBM): Powerful method that builds models sequentially.
 Neural Networks: Can capture complex patterns in data.
+
 6. Model Training
 Train the chosen model using the training data. This involves feeding the data into the model and allowing it to learn the relationships between the features and the target variables.
 
@@ -38,6 +40,7 @@ Precision: The proportion of positive identifications that were actually correct
 Recall: The proportion of actual positives that were identified correctly.
 F1 Score: The harmonic mean of precision and recall.
 ROC AUC: Measures the ability of the model to distinguish between classes.
+
 8. Hyperparameter Tuning
 Optimize the model by tuning its hyperparameters. This can be done using techniques like grid search or random search combined with cross-validation to find the best set of hyperparameters.
 
