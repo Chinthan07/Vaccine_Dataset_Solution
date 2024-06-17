@@ -1,6 +1,6 @@
 # Vaccine_Dataset_Solution
 
-1. Problem Understanding
+#1. Problem Understanding
 First, clearly define the problem. Here, the goal is to predict two probabilities: whether an individual will receive an "xyz" vaccine and whether they will receive a seasonal flu vaccine. These are binary classification problems and can be approached as a multilabel classification task.
 
 2. Data Collection
